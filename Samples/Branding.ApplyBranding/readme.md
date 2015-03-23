@@ -37,7 +37,7 @@ To run this sample first set up 2 new site collections (/sites/pub1 & /sites/pub
 
 ![](http://i.imgur.com/jJxGEzc.png)
 
-Before running the console application you should add in a Command line arguments, accessed from the Solution > Properties > Debug - Start Options. Enter one from the following screnshot (whichever best suits your needs).
+Before running the console application you should add in a Command line arguments, accessed from the Solution > Properties > Debug - Start Options. Enter one from the following screenshot (whichever best suits your needs).
 
 ![](http://i.imgur.com/FrPR1Dy.png)
 
