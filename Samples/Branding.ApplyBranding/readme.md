@@ -33,9 +33,13 @@ Version  | Date | Comments
 ----------
 
 # SETUP #
-To run this sample first set up 2 new site collections (/sites/pub1 & /sites/pub2) with publishing template. Also open settings.xml and change the url in the branding element.
+To run this sample first set up 2 new site collections (/sites/pub1 & /sites/pub2) with publishing template. Also open settings.xml and change the url in the branding element. Please note the sites URL's are case sensitive.
 
 ![](http://i.imgur.com/jJxGEzc.png)
+
+Before running the console application you should add in a Command line arguments, accessed from the Solution > Properties > Debug - Start Options. Enter one from the following screnshot (whichever best suits your needs).
+
+![](http://i.imgur.com/FrPR1Dy.png)
 
 Now you should be able to run the console application with the result below. When prompted for SharePoint user name/Password enter credentials for a user with at least Full Control permission on the sites. 
 
