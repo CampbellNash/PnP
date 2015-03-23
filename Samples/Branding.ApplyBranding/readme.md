@@ -37,7 +37,7 @@ To run this sample first set up 2 new site collections (/sites/pub1 & /sites/pub
 
 ![](http://i.imgur.com/jJxGEzc.png)
 
-You will also be required to add in a command line argument. Goto Solution > Properties > Debug then enter on of the following options into the Start Options. Please note you only need to enter "activate online" or whatever option suits your needs.
+You will also be required to add in a command line argument. Goto Solution > Properties > Debug then enter any of the following options into the Start Options box. Please note you only need to enter "activate online" or whatever option suits your needs.
 
 ![](http://i.imgur.com/ZZo3wto.png)
 
